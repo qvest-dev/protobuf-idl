@@ -11,4 +11,5 @@ message Person {
   optional string name = 1;
   optional int32 id = 2;
   optional string email = 3;
+  optional string gen = 4;
 }
